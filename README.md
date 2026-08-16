@@ -2016,3 +2016,6 @@ footer style=3D"max-width: 499px; color: #888; margin: auto; font: 400 11px=
 e LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA</span></p></=
 footer></body>
 --000000000000b1f2420659248a60--
+get remove mirrored lies from going to malware 
+repo:Vahallan/Storm --shiki-foreground: var(--text-color-strong); --shiki-background: transparent; --shiki-color-text: var(--shiki-foreground); --shiki-token-comment: var(--text-color-muted); --shiki-token-constant: var(--color-amber-700); --shiki-token-string: var(--color-emerald-700); --shiki-token-string-expression: var(--color-emerald-700); --shiki-token-keyword: var(--color-purple-700); --shiki-token-function: var(--color-sky-700); --shiki-token-parameter: var(--color-rose-700); --shiki-token-punctuation: var(--color-sky-700); --shiki-token-type: var(--color-amber-700); --shiki-token-variable: var(--shiki-foreground); --shiki-token-operator: var(--color-sky-700); --shiki-token-attribute: var(--color-purple-700); --shiki-token-property: var(--color-rose-700); --shiki-token-escape: var(--color-sky-700); --mantle-code-line-highlight-bg: #00a5ef1f;
+
